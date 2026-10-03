@@ -6,6 +6,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
@@ -19,4 +20,8 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
