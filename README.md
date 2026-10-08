@@ -22,6 +22,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0268-missing-number) |
 ## Hash Table
@@ -42,4 +43,12 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
