@@ -8,6 +8,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 | ------- |
 | [0001-two-sum](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0268-missing-number) |
@@ -17,6 +18,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
 ## Math
@@ -42,6 +44,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -51,4 +54,12 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
