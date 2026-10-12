@@ -16,6 +16,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 | [0268-missing-number](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 | [0075-sort-colors](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +85,8 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
