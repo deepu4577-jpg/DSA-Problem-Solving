@@ -8,6 +8,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 | ------- |
 | [0001-two-sum](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0283-move-zeroes) |
