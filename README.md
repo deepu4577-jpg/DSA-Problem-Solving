@@ -10,6 +10,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
 | ------- |
