@@ -9,6 +9,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 | [0001-two-sum](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0075-sort-colors) |
@@ -33,6 +34,7 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0268-missing-number) |
 ## Hash Table
@@ -98,5 +100,6 @@ My DSA journey using C++ | Striver A2Z DSA Sheet | LeetCode Problems
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/deepu4577-jpg/DSA-Problem-Solving/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
